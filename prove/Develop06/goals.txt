@@ -1,0 +1,6 @@
+200
+SimpleGoal:Go to Paris,Save money to visit Paris,100,True
+EternalGoal:Attend Church,Make sure I attend Church every Sunday,150
+ChecklistGoal:Attend temple,Attend the temple,50,0,10,25
+SimpleGoal:run a marthon,run commarades marathon this year,100,True
+SimpleGoal:run a marathon,Run comrades marathon this year,100,False

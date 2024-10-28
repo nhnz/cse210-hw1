@@ -1,9 +1,15 @@
 using System;
+using System.Collections.Generic;
+using System.IO;
 
 class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello Develop06 World!");
+        GoalManager goalManager = new GoalManager();
+        goalManager.LoadGoals("goals.txt"); // Load existing goals if they exist
+        goalManager.Start(); // Start main program
     }
 }
+
+    
